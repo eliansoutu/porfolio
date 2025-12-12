@@ -1,0 +1,25 @@
+[
+  {
+    "title": "Mapa interactivo de turismo en R",
+    "slug": "mapa-turismo-r",
+    "excerpt": "Exploración de flujos turísticos con leaflet, combinación de datos abiertos y visualizaciones temáticas.",
+    "date": "2025-01-10",
+    "readTime": "6 min",
+    "tags": ["viz", "analysis", "r"],
+    "heroImage": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "repo": "https://github.com/tu-usuario/mapa-turismo",
+    "pdf": "assets/pdfs/mapa-turismo-r.pdf",
+    "images": ["assets/images/mapa.svg"]
+  },
+  {
+    "title": "Dashboard de ventas con Power BI",
+    "slug": "dashboard-ventas-bi",
+    "excerpt": "Modelo semántico, DAX y diseño de página para stakeholders comerciales.",
+    "date": "2024-11-03",
+    "readTime": "4 min",
+    "tags": ["viz", "report"],
+    "heroImage": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1200&q=80",
+    "repo": "https://github.com/tu-usuario/dashboard-ventas"
+  }
+]
+

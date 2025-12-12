@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Portafolio · Análisis y Visualización de Datos</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <header class="hero">
+    <div class="hero__content container">
+      <p class="eyebrow">Portafolio · Data & Analytics</p>
+      <h1>Historias con datos: visualización, análisis y storytelling</h1>
+      <p class="lede">
+        Colección de proyectos en R, Python y otras herramientas. Incluye dashboards, notebooks,
+        reportes PDF e imágenes descargables.
+      </p>
+      <div class="hero__cta">
+        <a class="btn primary" href="#projects">Ver proyectos</a>
+        <a class="btn ghost" href="mailto:eliansoutul@gmail.com">Hablemos</a>
+      </div>
+      <div class="badges">
+        <span class="badge">R</span>
+        <span class="badge">Python</span>
+        <span class="badge">Power BI</span>
+      </div>
+    </div>
+    <div class="hero__visual">
+      <div class="glass"></div>
+      <div class="rings"></div>
+    </div>
+  </header>
+
+  <main class="container">
+    <section id="projects" class="section">
+      <div class="section__header">
+        <div>
+          <p class="eyebrow">Proyectos destacados</p>
+          <h2>Blog visual</h2>
+        </div>
+        <div class="filters">
+          <button class="filter active" data-tag="all">Todo</button>
+          <button class="filter" data-tag="viz">Visualización</button>
+          <button class="filter" data-tag="analysis">Análisis</button>
+          <button class="filter" data-tag="report">Reportes/PDF</button>
+        </div>
+      </div>
+      <div id="cards" class="cards"></div>
+    </section>
+
+    <section class="section about">
+      <div>
+        <p class="eyebrow">Sobre mí</p>
+        <h3>Analista que cuenta historias con datos</h3>
+        <p>Me especializo en explorar, limpiar y comunicar datos con narrativas claras.
+          Trabajo con R, Python y herramientas de BI para crear dashboards, análisis reproducibles
+          y reportes listos para stakeholders.</p>
+      </div>
+      <div class="about__links">
+        <a class="btn ghost" href="https://github.com/eliansoutu" target="_blank" rel="noreferrer">GitHub</a>
+        <a class="btn ghost" href="https://ar.linkedin.com/in/eli%C3%A1n-soutullo" target="_blank" rel="noreferrer">LinkedIn</a>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container footer__content">
+      <p>Hecho con datos, café e IA.</p>
+      <a href="mailto:eliansoutul@gmail.com">eliansoutul@gmail.com</a>
+    </div>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script src="assets/js/main.js"></script>
+</body>
+</html>
+
