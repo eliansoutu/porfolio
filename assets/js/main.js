@@ -18,11 +18,9 @@ async function loadPosts() {
         <article class="card" data-tags="${post.tags.join(',')}">
           <div class="card__thumb">${thumb}</div>
           <div class="card__body">
-            <p class="pill">${post.date}</p>
             <h3 class="card__title">${post.title}</h3>
             <p class="card__excerpt">${post.excerpt}</p>
             <div class="card__meta">
-              <span>${post.readTime}</span>
               <span>${tags}</span>
             </div>
             <div class="card__links">${links.join('')}</div>

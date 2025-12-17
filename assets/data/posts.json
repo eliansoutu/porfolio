@@ -1,10 +1,17 @@
 [
   {
+    "title": "Text mining de reseñas turísticas",
+    "slug": "text-mining-reseñas",
+    "excerpt": "Obtención y análisis de reseñas turísticas de TripAdvisor utilizando R.",
+    "tags": ["viz", "geo", "r"],
+    "heroImage": "assets/images/mapear1.png",
+    "repo": "https://github.com/dnme-minturdep/mapeAr",
+    "images": ["assets/images/mapear2.png"]
+  },
+  {
     "title": "App para crear mapas estáticos de Argentina",
     "slug": "mapa-turismo-r",
     "excerpt": "Shiny app para crear mapas de manera interactiva y con datos personalizados.",
-    "date": "2025-01-10",
-    "readTime": "2 min",
     "tags": ["viz", "geo", "r"],
     "heroImage": "assets/images/mapear1.png",
     "repo": "https://github.com/dnme-minturdep/mapeAr",
