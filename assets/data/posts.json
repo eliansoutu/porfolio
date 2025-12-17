@@ -1,5 +1,21 @@
 [
   {
+    "title": "Storytelling con datos de precios de productos alimenticios",
+    "slug": "storytelling-sepa",
+    "excerpt": "Visualización interactiva estilo storytelling distinguida en el concurso Contar con Datos.",
+    "tags": ["viz", "geo", "r", "analysis"],
+    "heroImage": "assets/images/mapas-sepa.png",
+    "repo": "https://github.com/eliansoutu/sepa-gba"
+  },
+  {
+    "title": "Paquete de R propio para visualizar datos",
+    "slug": "package-r",
+    "excerpt": "Paquete de visualización de datos con estilos inspirados en artistas",
+    "tags": ["viz", "r"],
+    "heroImage": "assets/images/gguapo2.png",
+    "repo": "https://github.com/eliansoutu/gguapo/"
+  },
+  {
     "title": "App para crear mapas estáticos de Argentina",
     "slug": "mapa-turismo-r",
     "excerpt": "Shiny app para crear mapas de manera interactiva y con datos personalizados.",
@@ -8,7 +24,7 @@
     "repo": "https://github.com/dnme-minturdep/mapeAr",
     "images": ["assets/images/mapear2.png"]
   },
-    {
+  {
     "title": "Text mining de reseñas turísticas",
     "slug": "text-mining-mdq",
     "excerpt": "Obtención y análisis de reseñas turísticas de TripAdvisor utilizando R.",
