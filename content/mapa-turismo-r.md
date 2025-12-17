@@ -1,24 +1,18 @@
-# Mapa interactivo de turismo en R
+# App para crear mapas estáticos de Argentina
 
 ## Objetivo
-Crear un mapa interactivo para visualizar flujos turísticos entre provincias, combinando datos abiertos con geometrias administrativas.
+Shiny app para crear mapas estáticos de manera interactiva y con datos personalizados.
 
 ## Stack
-- R, sf, dplyr, tidyr
-- leaflet + leaflet.extras
-- ggplot2 para exploración previa
+- R, sf, shiny
+- ggplot2
+- Información geoespacial
 
-## Pasos clave
-1. Limpieza y normalización de los datos de llegadas.
-2. Cruce con shapes oficiales y construcción de un GeoJSON.
-3. Mapas coropléticos y burbujas para intensidad de visitas.
-4. Publicación con `leaflet::saveWidget` y assets comprimidos.
+## Características
+1. Limpieza y normalización de capas geográficas oficiales
+2. Implementación de módulo en Shiny para capas personalizadas
+3. Interfaz de usuario (UI) pensada para personas sin conocimentos de programación
 
 ## Resultados
-![Mapa turístico](../assets/images/mapa.svg)
-
-- Descarga el reporte completo en PDF: [mapa-turismo-r.pdf](../assets/pdfs/mapa-turismo-r.pdf)
-- Repositorio con el código: <https://github.com/tu-usuario/mapa-turismo>
-
-> Este post es un ejemplo: reemplaza los enlaces por tus archivos reales.
+![UI](../assets/images/mapear1.png)
 
