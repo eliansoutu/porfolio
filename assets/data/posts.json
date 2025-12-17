@@ -37,7 +37,7 @@
     "slug": "bot-telegram",
     "excerpt": "Creación de un bot para automatizar alertas de actualización de datos.",
     "tags": ["bot", "r"],
-    "heroImage": "assets/images/telegram-bot.png",
+    "heroImage": "assets/images/telegram-bot.jpeg",
     "repo": "https://github.com/dnme-minturdep/sintIA_consultas"
   },
   {
