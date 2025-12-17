@@ -8,7 +8,7 @@
     "tags": ["viz", "geo", "r"],
     "heroImage": "assets/images/mapear1.png",
     "repo": "https://github.com/dnme-minturdep/mapeAr",
-    "images": ["assets/images/mapear2.png"]
+    "images": "assets/images/mapear2.png"
   },
   {
     "title": "App web para crear mapas estáticos de Argentina",
