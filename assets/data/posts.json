@@ -24,13 +24,21 @@
     "repo": "https://github.com/dnme-minturdep/mapeAr",
     "images": ["assets/images/mapear2.png"]
   },
-   {
+  {
     "title": "Big Data aplicado al análisis turístico",
     "slug": "big-data-turismo",
     "excerpt": "Trabajo colaborativo e interdisciplinario de análisis de fuentes de Big Data.",
     "tags": ["big-data", "geo", "r"],
     "heroImage": "assets/images/big-data-turismo.png",
     "pdf": "https://tableros.yvera.tur.ar/recursos/biblioteca/bigdata_turismo.pdf"
+  },
+  {
+    "title": "Bot de Telegram para avisos",
+    "slug": "bot-telegram",
+    "excerpt": "Creación de un bot para automatizar alertas de actualización de datos.",
+    "tags": ["bot", "r"],
+    "heroImage": "assets/images/big-data-turismo.png",
+    "repo": "https://github.com/dnme-minturdep/sintIA_consultas"
   },
   {
     "title": "Text mining de reseñas turísticas",
