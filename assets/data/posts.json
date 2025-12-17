@@ -14,7 +14,7 @@
     "excerpt": "Obtención y análisis de reseñas turísticas de TripAdvisor utilizando R.",
     "tags": ["viz", "analysis", "r"],
     "heroImage": "assets/images/text-mining-mdq.png",
-    "pdfs": ["assets/pdfs/text-mining-reseñas.pdf"]
+    "pdf": ["assets/pdfs/text-mining-mdq.pdf"]
   }
 ]
 
