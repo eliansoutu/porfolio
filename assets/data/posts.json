@@ -37,7 +37,7 @@
     "slug": "bot-telegram",
     "excerpt": "Creación de un bot para automatizar alertas de actualización de datos.",
     "tags": ["bot", "r"],
-    "heroImage": "assets/images/big-data-turismo.png",
+    "heroImage": "assets/images/telegram-bot.png",
     "repo": "https://github.com/dnme-minturdep/sintIA_consultas"
   },
   {
