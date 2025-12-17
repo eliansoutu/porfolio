@@ -8,7 +8,7 @@ Shiny app para crear mapas estáticos de manera interactiva y con datos personal
 - ggplot2
 - Información geoespacial
 
-## Características
+## Características principales
 1. Limpieza y normalización de capas geográficas oficiales
 2. Implementación de módulo en Shiny para capas personalizadas
 3. Interfaz de usuario (UI) pensada para personas sin conocimentos de programación
