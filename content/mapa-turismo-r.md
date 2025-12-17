@@ -14,5 +14,7 @@ Shiny app para crear mapas estáticos de manera interactiva y con datos personal
 3. Interfaz de usuario (UI) pensada para personas sin conocimentos de programación
 
 ## Resultados
-![UI](../assets/images/mapear1.png)
+![UI I](./assets/images/mapear1.png)
+
+![UI II](https://github.com/eliansoutu/porfolio/blob/main/assets/images/mapear1.png)
 

@@ -8,19 +8,7 @@
     "tags": ["viz", "geo", "r"],
     "heroImage": "assets/images/mapear1.png",
     "repo": "https://github.com/dnme-minturdep/mapeAr",
-    "images": "assets/images/mapear2.png"
-  },
-  {
-    "title": "App web para crear mapas estáticos de Argentina",
-    "slug": "otro",
-    "excerpt": "Shiny app para crear mapas de manera interactiva y con datos personalizados.",
-    "date": "2025-01-10",
-    "readTime": "6 min",
-    "tags": ["viz", "gis", "r"],
-    "heroImage": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
-    "repo": "https://github.com/dnme-minturdep/mapeAr",
-    "pdf": "assets/pdfs/mapa-turismo-r.pdf",
-    "images": ["assets/images/mapa.svg"]
+    "images": ["assets/images/mapear2.png"]
   }
 ]
 
