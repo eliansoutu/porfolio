@@ -1,7 +1,7 @@
 [
   {
     "title": "App para crear mapas estáticos de Argentina",
-    "slug": "mapa-arg-r",
+    "slug": "mapa-turismo-r",
     "excerpt": "Shiny app para crear mapas de manera interactiva y con datos personalizados.",
     "date": "2025-01-10",
     "readTime": "2 min",
@@ -12,7 +12,7 @@
   },
   {
     "title": "App web para crear mapas estáticos de Argentina",
-    "slug": "mapa-arg-r",
+    "slug": "otro",
     "excerpt": "Shiny app para crear mapas de manera interactiva y con datos personalizados.",
     "date": "2025-01-10",
     "readTime": "6 min",
